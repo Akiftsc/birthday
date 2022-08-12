@@ -5,7 +5,6 @@ body {
 
 * {
     transition: 500ms all;
-    -webkit-transform: translateZ(0);
 }
 
 body {
